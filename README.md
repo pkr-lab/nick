@@ -4,6 +4,9 @@ Willkommen auf Nicks Spielwiese – einem Ort zum Ausprobieren, Lernen und Exper
 
 Hier landen kleine Projekte, Code-Schnipsel, Prototypen und Ideen, die einfach mal getestet werden wollen. Nichts hier muss perfekt, fertig oder produktionsreif sein.
 
+Link zur besseren Übersicht des Repositorys:
+<https://gitdiagram.com/pkr-lab/nick>
+
 ## Worum geht's?
 
 - **Ausprobieren:** neue Sprachen, Frameworks, Bibliotheken und Werkzeuge testen
